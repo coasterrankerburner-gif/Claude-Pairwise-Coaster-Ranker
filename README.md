@@ -11,7 +11,7 @@ to install anything or write any code; Claude does the heavy lifting.
 
 ## Download
 
-[**Download the latest kit (zip)**](https://github.com/YOUR-HANDLE/YOUR-REPO/releases/latest/download/coaster-ranker-kit.zip)
+[**Download the latest kit (zip)**](https://github.com/coasterrankerburner-gif/Claude-Pairwise-Coaster-Ranker/releases/latest/download/coaster-ranker-kit.zip)
 
 After downloading, unzip it. You'll have four files; read on for what
 to do with them.
